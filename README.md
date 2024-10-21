@@ -7,3 +7,4 @@ implemented using Quill.js easy-to-use tool for building rich text editors on th
 • Socket.io used to establish persistance connection between the client and serve
 "# Google-docs-Clone" 
 "# Google-docs-Clone" 
+"# GoogleDocsClone" 
