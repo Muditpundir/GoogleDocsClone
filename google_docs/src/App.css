@@ -1,0 +1,41 @@
+.container {
+  width: 50%;
+  background:  #FFF;
+  box-shadow: 0 0 5px 0 rgba(0, 0, 0, 0.5);
+  margin: 10px auto 10px auto !important;
+  min-height: 100vh;
+}
+
+.ql-toolbar.ql-snow {
+  position: sticky;
+  width: 80%;
+  margin: 10px auto 10px auto !important;
+  display: flex;
+  border-radius: 25px;
+  justify-content: center;
+  position: sticky;
+  top: 0;
+  z-index: 1;
+  background: #f8f8fa;
+  border: none !important;
+  box-shadow: 0 0 5px 0 rgba(0, 0, 0, 0.5);
+}
+#saveField{
+  position: relative;
+  width: 98px;
+  bottom: 5px;
+  height:10px;
+  border: none;
+  margin-top: 0;
+  
+ 
+}
+#saveField:focus {
+    background-color: white;
+    border: 1px solid black;
+    border-radius: 8px;
+}
+
+
+
+
